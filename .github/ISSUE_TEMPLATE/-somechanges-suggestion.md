@@ -2,7 +2,7 @@
 name: "Suggestion"
 about: Request a change you'd like to see
 title: "[Suggestion]"
-labels: "Suggestion"
+labels: "#SomeChanges Suggestion"
 assignees: JamminL
 
 ---
